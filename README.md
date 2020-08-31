@@ -32,7 +32,8 @@ Original idea: https://www.reddit.com/r/incremental_games/comments/ahf6nx/how_to
 
 ### Roadmap
 
-Ch1:Done, Ch2:Current
+Guided: Ch1:Done, Ch2:Current, Ch3: Saving, Ch4: Buy Options,
+Modular: Ch5: Reset, Theme, etc...
 
 ---
 
