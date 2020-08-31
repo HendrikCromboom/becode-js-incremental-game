@@ -8,7 +8,7 @@ To revise your JS skills by making a simple incremental game. After a couple of 
 
 ### How to get started
 
-Fork this repo and upload it to a new repo OR fork this repo
+Clone this repo and upload it to a new repo OR fork this repo
 
 ---
 
