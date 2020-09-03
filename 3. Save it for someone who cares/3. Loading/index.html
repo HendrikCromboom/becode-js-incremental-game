@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>BeCode/JavaScript - 3.3: Loading</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+        <link rel="stylesheet" href="../../shared/css/normalize.css" />
+        <link rel="stylesheet" href="../../shared/css/styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>BeCode / JS / Incremental Game</h1>
+                <h2>
+                    <span>3.3</span>
+                    <strong>Loading</strong>
+                </h2>
+            </header>
+            <div class="content">
+                <section class="explain">
+                    Saving is cool! Very cool in fact! But kind of pointless if you can't load your save...
+                    To make it hassle free we will load the save in when the page is loaded.
+                    "let myCounter = localStorage.getItem("myCounter");
+                    if (myCounter == null){
+                    myCounter = 0}
+                    else{ myCounter = parseInt(myCounter)}"
+                    When the value that is pulled from the save is empty, we replace it with 0.
+                    When the value is available we want it to be parsed to an integer so we can calculate with it.
+
+
+                </section>
+            </div>
+        </div>
+    </body>
+</html>
